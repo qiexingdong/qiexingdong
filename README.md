@@ -1,16 +1,16 @@
-## Hi there 👋
+## 你好 👋
 
-<!--
-**qiexingdong/qiexingdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 关于我
 
-Here are some ideas to get you started:
+- 正在学习RTOS
+- 邮箱: 1987787319@qq.com
+## 技能和工具🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 编程语言
+
+* C、C++
+### 工具和平台
+
+* Git
+* CubeMx、Keil5、VsCode
+* GitHub、Gitee
